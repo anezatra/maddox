@@ -1,0 +1,3 @@
+pysockets
+requests
+bs4
