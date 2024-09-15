@@ -5,7 +5,7 @@
 ## What are the Advantages of Maddox? ✨
 **Maddox operates directly from the terminal, offering a streamlined and efficient user experience.** <br/>
 **It generates random IPs from 0.0.0.0 to 255.255.255.255 and receives server responses in less than 1 second using a socket connection.** <br/>
-**Key advantages of Maddox include:** <br/>
+**Key advantages of Maddox include:** <br><br/>
 ![Banner](https://github.com/anezatra/maddox/blob/main/scan.jpg)
 
 ✅ Terminal-based operation with no GUI. <br/>
